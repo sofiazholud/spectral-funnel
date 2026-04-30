@@ -3582,6 +3582,9 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		background-image: url("images/Alona.JPG");
+    	background-size: cover;
+    	background-position: center;
 	}
 
 		#banner h2 {
